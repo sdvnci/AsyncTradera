@@ -1,0 +1,10 @@
+httpx
+pydantic
+python-dotenv
+black
+mypy
+build
+twine
+pytest
+pytest-asyncio
+respx
